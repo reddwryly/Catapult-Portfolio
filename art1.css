@@ -1,0 +1,23 @@
+p {
+    color: #6c6d81;
+}
+
+h1 {
+    color: #ffffff;
+    position: relative;
+    margin: 200px;
+}
+
+body {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 30px;
+    background-color: #282840;
+}
+
+.portfolio {
+    display: flex;
+    height: 600px;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    margin: 100px;
+}
