@@ -16,12 +16,17 @@ a:link {
     border-radius: 40px;
     background: #5a62e9;
     padding: 15px;
-
+    
     margin: 8px;
 }
 
 a:visited {
     color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+    background-color: #6c6d81;
 }
 
 .homeb {
