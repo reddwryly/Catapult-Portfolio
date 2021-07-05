@@ -14,10 +14,34 @@ body {
     background-color: #282840;
 }
 
-.portfolio {
+img {
+    border: #ffffff 5px solid;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.stylisied-realism1 {
     display: flex;
-    height: 600px;
-    flex-wrap:wrap;
-    justify-content: space-around;
-    margin: 100px;
+    width: 100%;
+    justify-content: center;
+    margin: 10px;
+}
+
+a:link {
+    color: #ffffff;
+    border-radius: 40px;
+    background: #5a62e9;
+    padding: 15px;
+
+    margin: 8px;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+.homeb {
+    position:fixed;
+    top: 5px;
+    left: 7px;
 }
