@@ -23,6 +23,11 @@ a:visited {
     color: #ffffff;
 }
 
+a:hover {
+    color: #ffffff;
+    background-color: #6c6d81;
+}
+
 .homeb {
     position:fixed;
     top: 5px;
