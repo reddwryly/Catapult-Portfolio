@@ -3,12 +3,13 @@ h1 {
     color: #ffffff;
     position: relative;
     margin-top: 300px;
-    margin-bottom: 210px;
+    margin-bottom: 170px;
+    font-size: 50px;
 }
 
 body {
     font-family: 'Varela Round', sans-serif;
-    font-size: 30px;
+    font-size: large;
     background-color: #282840;
 }
 
@@ -16,7 +17,7 @@ a:link {
     color: #ffffff;
     border-radius: 40px;
     background: #7074b8;
-    padding: 15px;    
+    padding: 10px;    
     margin: 8px;
 }
 
