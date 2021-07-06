@@ -16,7 +16,7 @@ h1 {
 
 body {
     font-family: 'Varela Round', sans-serif;
-    font-size: 30px;
+    font-size: large;
     background-color: #282840;
 }
 
@@ -49,9 +49,8 @@ img {
 a:link {
     color: #ffffff;
     border-radius: 40px;
-    background: #5a62e9;
+    background: #7074b8;
     padding: 15px;
-
     margin: 8px;
 }
 
