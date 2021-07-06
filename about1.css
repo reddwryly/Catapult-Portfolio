@@ -1,21 +1,21 @@
 h1 {
     color: #ffffff;
     position: relative;
-    margin-top: 300px;
-    margin-bottom: 210px;
+    margin-top: 200px;
 }
 
 body {
     font-family: 'Varela Round', sans-serif;
     font-size: 30px;
     background-color: #282840;
+    font-size: large;
 }
 
 a:link {
     color: #ffffff;
     border-radius: 40px;
     background: #7074b8;
-    padding: 15px;    
+    padding: 10px;    
     margin: 8px;
 }
 
