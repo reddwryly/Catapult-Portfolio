@@ -2,7 +2,8 @@
 h1 {
     color: #ffffff;
     position: relative;
-    margin: 300px;
+    margin-top: 300px;
+    margin-bottom: 210px;
 }
 
 body {
@@ -14,9 +15,8 @@ body {
 a:link {
     color: #ffffff;
     border-radius: 40px;
-    background: #5a62e9;
-    padding: 15px;
-    
+    background: #7074b8;
+    padding: 15px;    
     margin: 8px;
 }
 
@@ -33,4 +33,5 @@ a:hover {
     position:fixed;
     top: 5px;
     left: 7px;
+    font-size: large;
 }
