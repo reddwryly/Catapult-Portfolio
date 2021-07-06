@@ -1,0 +1,36 @@
+h1 {
+    color: #ffffff;
+    position: relative;
+    margin-top: 300px;
+    margin-bottom: 210px;
+}
+
+body {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 30px;
+    background-color: #282840;
+}
+
+a:link {
+    color: #ffffff;
+    border-radius: 40px;
+    background: #7074b8;
+    padding: 15px;    
+    margin: 8px;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+    background-color: #6c6d81;
+}
+
+.homeb {
+    position:fixed;
+    top: 5px;
+    left: 7px;
+    font-size: large;
+}
