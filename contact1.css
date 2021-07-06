@@ -1,21 +1,55 @@
 h1 {
     color: #ffffff;
     position: relative;
-    margin: 300px;
+    margin-top: 300px;
 }
 
 body {
     font-family: 'Varela Round', sans-serif;
-    font-size: 30px;
+    font-size: large;
     background-color: #282840;
 }
 
 a:link {
     color: #ffffff;
     border-radius: 40px;
-    background: #5a62e9;
+    background: #7074b8;
     padding: 15px;
 
+    margin: 8px;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+    background-color: #6c6d81;
+    border-radius: 10px;
+}
+
+.homeb {
+    position:fixed;
+    top: 5px;
+    left: 7px;
+}
+
+img {
+    width: 60px;
+    margin: 20px;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+}
+
+a:link {
+    color: #ffffff;
+    border-radius: 40px;
+    background: #5a62e9;
+    padding: 15px;    
     margin: 8px;
 }
 
