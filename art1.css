@@ -47,10 +47,8 @@ img {
 
 a:link {
     color: #ffffff;
-    border-radius: 40px;
-    background: #7074b8;
     padding: 10px;
-    margin: 8px;
+    margin: 20px;
 }
 
 a:visited {
@@ -58,12 +56,15 @@ a:visited {
 }
 
 a:hover {
-    color: #ffffff;
-    background-color: #6c6d81;
+    color: #282840;
 }
 
-.homeb {
-    position:fixed;
-    top: 5px;
-    left: 7px;
+.text1 {
+    position: fixed;
+    border-radius: 20px;
+    top: 10px;
+    font-size: large;
+    padding: 10px !important;    
+    background-color: #7074b8
+    
 }
