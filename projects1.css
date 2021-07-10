@@ -34,3 +34,16 @@ a:hover {
     background-color: #7074b8
     
 }
+
+img {
+    border: #ffffff 5px solid;
+    border-radius: 10px;
+    margin: 10px;
+    width: 350px;
+    height: auto;
+}
+
+.projects {
+    display: flex;
+    justify-content: center;
+}
