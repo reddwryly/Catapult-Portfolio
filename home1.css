@@ -3,7 +3,7 @@ h1 {
     color: #ffffff;
     position: relative;
     margin-top: 17%;
-    margin-bottom: 250px;
+    margin-bottom: 20px;
     font-size: 50px;
     animation: fadeIn 3s;
     -webkit-animation: fadeIn 5s;
@@ -46,17 +46,27 @@ h2 {
     color: #6c6d81;
 }
 
-
 body {
     font-family: 'Varela Round', sans-serif;
     font-size: large;
     background-color: #282840;
 }
 
+.subname {
+  color: #6c6d81;
+  text-align: center;
+  margin-bottom: 250px;
+  animation: fadeIn 3s;
+  -webkit-animation: fadeIn 10s;
+  -moz-animation: fadeIn 10s;
+  -o-animation: fadeIn 10s;
+  -ms-animation: fadeIn 10s;
+}
+
 a:link {
+    font-size: medium;
     color: #ffffff;
-    padding: 10px;
-    margin: 20px;
+    padding:5px;
 }
 
 a:visited {
@@ -76,12 +86,11 @@ a:hover {
     background-color: #7074b8
 }
 
-
 .about-meIMG1 {
     height: 500px;
     position: absolute;
     right:200px;
-    top:600px;
+    top:640px;
     border-radius: 15px;
 }
 
@@ -89,7 +98,7 @@ a:hover {
     height: 500px;
     position: absolute;
     right:200px;
-    top:1200px;
+    top:1240px;
     border-radius: 15px;
 }
 
@@ -97,7 +106,7 @@ a:hover {
     height: 500px;
     position: absolute;
     right:200px;
-    top:1800px;
+    top:1840px;
     margin: 10px;
     border-radius: 15px;
 }
@@ -105,4 +114,8 @@ a:hover {
 .myname{
   display: flex;
   justify-content: center;
+}
+
+.text2 {
+  border-right: 2px solid #ffffff;
 }
