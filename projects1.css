@@ -49,9 +49,9 @@ body {
 }
 
 a:link {
-    color: #ffffff;
-    padding: 10px;
-    margin: 20px;
+  font-size: medium;
+  color: #ffffff;
+  padding:5px;
 }
 
 a:visited {
@@ -63,13 +63,12 @@ a:hover {
 }
 
 .text1 {
-    position: fixed;
-    border-radius: 20px;
-    top: 10px;
-    font-size: large;
-    padding: 10px !important;    
-    background-color: #7074b8
-    
+  position: fixed;
+  border-radius: 20px;
+  top: 10px;
+  font-size: large;
+  padding: 10px;    
+  background-color: #7074b8
 }
 
 img {
@@ -83,4 +82,13 @@ img {
 .projects {
     display: flex;
     justify-content: center;
+}
+
+.myprojects{
+  display: flex;
+  justify-content: center;
+}
+
+.text2 {
+  border-right: 2px solid #ffffff;
 }
