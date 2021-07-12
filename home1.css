@@ -37,12 +37,11 @@ h1 {
   }
 
 h2 {
-    margin-left: 100px;
     color: #6c6d81;
 }
 
 .aboutmep {
-    margin-left: 40px;
+    text-align: center;
     color: #6c6d81;
 }
 
@@ -55,7 +54,7 @@ body {
 .subname {
   color: #6c6d81;
   text-align: center;
-  margin-bottom: 250px;
+  margin-bottom: 350px;
   animation: fadeIn 3s;
   -webkit-animation: fadeIn 10s;
   -moz-animation: fadeIn 10s;
@@ -86,31 +85,6 @@ a:hover {
     background-color: #7074b8
 }
 
-.about-meIMG1 {
-    height: 500px;
-    position: absolute;
-    right:200px;
-    top:640px;
-    border-radius: 15px;
-}
-
-.about-meIMG2 {
-    height: 500px;
-    position: absolute;
-    right:200px;
-    top:1240px;
-    border-radius: 15px;
-}
-
-.about-meIMG3 {
-    height: 500px;
-    position: absolute;
-    right:200px;
-    top:1840px;
-    margin: 10px;
-    border-radius: 15px;
-}
-
 .myname{
   display: flex;
   justify-content: center;
@@ -118,4 +92,19 @@ a:hover {
 
 .text2 {
   border-right: 2px solid #ffffff;
+}
+
+.stylisied-realism1 {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+img {
+  border: #ffffff 5px solid;
+  border-radius: 10px;
+  margin: 10px;
+  width: 300px;
+  height: auto;
+  box-shadow: 5px 5px 5px #6c6d81;
 }
