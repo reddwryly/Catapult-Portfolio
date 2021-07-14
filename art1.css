@@ -103,3 +103,7 @@ a:hover {
 .text2 {
   border-right: 2px solid #ffffff;
 }
+
+html {
+  scroll-behavior: smooth;
+ }
