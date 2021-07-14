@@ -51,27 +51,24 @@ body {
 
 a:link {
   font-size: medium;
-  color: #ffffff;
   padding:5px;
 }
 
 a:visited {
-    color: #ffffff;
+  color: #ffffff;
 }
 
 a:hover {
-    color: #282840;
+  color: #e8883c;
 }
 
 .text1 {
   position: fixed;
-  border-radius: 20px;
   top: 10px;
   font-size: large;
   padding: 10px;    
-  background-color: #7074b8
+  color: #ffffff;
 }
-
 img {
     border: #ffffff 5px solid;
     border-radius: 10px;
